@@ -7,3 +7,5 @@ yfinance
 tensorflow
 xgboost
 ta
+hmmlearn
+ruptures
